@@ -28,7 +28,7 @@ The current version focuses on the first stage: building a clean and runnable GB
 ## Current Features
 
 * Download historical market price data using `yfinance`
-* Extract and process daily closing prices
+* Extract and process daily price data
 * Calculate log returns from historical price data
 * Estimate annualised drift and volatility
 * Simulate future price paths using a GBM model
